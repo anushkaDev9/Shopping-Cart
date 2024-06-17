@@ -1,0 +1,40 @@
+.div-item{
+    border: 2px solid rgb(234, 233, 233);
+    width: 70%;
+    height: 19rem;
+    border-radius: 5px;
+}
+.div-item img{
+    width:70%;
+    margin-top: 5%;
+}
+.p-name{
+    font-size: 20px;
+    margin-top: -2%;
+}
+.p-price{
+    font-size: 20px;
+    margin-top: -10%;
+}
+.p-qauntity{
+    font-size: 20px;
+    margin-top: -10%;
+}
+
+.cart-btn{
+    margin-top: 2%;
+    background-color: #FF7D29;
+    border: 2px solid #FF7D29;
+    height: 2rem;
+    cursor: pointer;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px rgb(238, 238, 238);
+}
+.btn{
+    background-color: #b7b4b3;
+    border: 2px solid #FF7D29;
+    height: 2rem;
+    cursor: pointer;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px rgb(238, 238, 238);
+}

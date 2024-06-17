@@ -1,0 +1,9 @@
+.div-home{
+   row-gap: 5px;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 7%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  
+}
